@@ -1,13 +1,14 @@
 ![2021-10-07 13 00のイメージ](https://user-images.githubusercontent.com/87939804/136319945-260e26b5-bea3-4450-97be-b9d9dc9cee1b.jpg)
 
 # Aviation-UnitConversion
-this APP is unit conversion specialize for aircraft operation.
+this ios APP is unit conversion specialize for aircraft operation.
 For example: ft→m,lbs→kg,kt→km/h...
+(Unit: fuel,velocity,height,distance)
 
 # Description
 First: Choose unit type.
 Second: Input a value. 
-Third: Value is Converted.
+Third: Value will be Converted automatically.
 
 Moreover, converted value can save your device.
 
